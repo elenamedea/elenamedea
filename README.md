@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" height="" width="600" />
-</div>  
-  
-
 ### <div align="center">I'm Eleni, a data scientist 👩‍💻 and data engineer aficionada 🚀</div>  
   
 
