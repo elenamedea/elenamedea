@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" align="center" height="" width="600" />
+<img src="<iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>" align="center" height="" width="600" />
 </div>  
   
 
@@ -104,13 +104,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/elenamedea " target="_blank">
+<a href="https://linkedin.com/in/elenisyngelaki" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/elenamedea" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Medea" target="_blank">
+<a href="https://twitter.com/ElesyngMedea" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
