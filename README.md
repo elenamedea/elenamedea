@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on an [NLP Sentiment Analysis Project](https://github.com/elenamedea/data-engineering-portfolio/tree/main/Twitter_Sentiment_Analysis_project)  
   
 
-- 🌱 I’m currently learning Apache Spark, Kafka and Airflow  
+- 🌱 I’m currently learning Airflow  
   
 
 - 🌟 Main languages: Python, R  
