@@ -22,7 +22,7 @@
 - ❓ Ask me about anything, I am happy to help  
   
 
--  🗂️ All of my projects are available [@elenamedea](github.com/elenamedea)  
+-  🗂️ All of my projects are available [here](https://github.com/elenamedea?tab=repositories)  
   
 
 - ⚡ Fun fact: all cats are beautiful 🐱  
