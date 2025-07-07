@@ -4,16 +4,16 @@
 - 😀 Pronouns: She/Her/Hers  
   
 
-- 🔭 I’m currently working on an [NLP Sentiment Analysis Project](https://github.com/elenamedea/data-engineering-portfolio/tree/main/Twitter_Sentiment_Analysis_project)  
+- 🔭 I’m currently working on a Huggingface space to host my website  
   
 
-- 🌱 I’m currently learning Kubernetes and Airflow  
+- 🌱 I’m currently diving into NLP and prompt engineering  
   
 
 - 🌟 Main languages: Python, R  
   
 
-- 👯 I’m looking to collaborate on projects with scientists from any field  
+- 👯 I’m looking to collaborate on FOSS projects, especially on cartography  
   
 
 - 🤝 I’m looking for help with Big Data tools  
@@ -22,7 +22,7 @@
 - ❓ Ask me about anything, I am happy to help  
   
 
--  🗂️ All of my projects are available [here](https://github.com/elenamedea?tab=repositories)  
+-  🗂️ MY selection of public available projects can be accessed [here](https://github.com/elenamedea?tab=repositories)  
   
 
 - ⚡ Fun fact: all cats are beautiful 🐱  
@@ -102,12 +102,6 @@
 <a href="https://linkedin.com/in/elenisyngelaki" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/elenamedea" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/ElesyngMedea" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
 </div>  
 
 <br />
