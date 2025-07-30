@@ -1,4 +1,4 @@
-### <div align="center">I'm Eleni, a data engineer 👩‍💻 and an automation aficionada 🚀</div>  
+### <div align="center">I'm Eleni, a data engineer 👩‍💻 and an ✨AI✨ automation aficionada 🚀</div>  
   
 
 - 😀 Pronouns: She/Her/Hers  
