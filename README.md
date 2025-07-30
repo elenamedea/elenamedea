@@ -1,4 +1,4 @@
-### <div align="center">I'm Eleni, a data engineer 👩‍💻 and an ✨AI✨ automation aficionada 🚀</div>  
+### <div align="center">I'm Eleni, a data engineer 👩‍💻 and an AI automation aficionada ✨🚀</div>  
   
 
 - 😀 Pronouns: She/Her/Hers  
@@ -25,7 +25,7 @@
 -  🗂️ My selection of public available projects can be accessed [here](https://github.com/elenamedea?tab=repositories)  
   
 
-- ⚡ Fun fact: all cats are beautiful 🐱  
+- 💫 Fun fact: all cats are beautiful 🐈🐈‍⬛  
   
 
 <br/>  
