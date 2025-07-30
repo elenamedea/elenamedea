@@ -1,4 +1,4 @@
-### <div align="center">I'm Eleni, a data scientist 👩‍💻 and data engineer aficionada 🚀</div>  
+### <div align="center">I'm Eleni, a data engineer 👩‍💻 and an automation aficionada 🚀</div>  
   
 
 - 😀 Pronouns: She/Her/Hers  
@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a Huggingface space to host my website  
   
 
-- 🌱 I’m currently diving into NLP and prompt engineering  
+- 🌱 I’m currently diving into NLP, prompt engineering, and n8n
   
 
 - 🌟 Main languages: Python, R  
